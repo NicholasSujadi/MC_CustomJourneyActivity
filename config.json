@@ -2,7 +2,7 @@
 {
 	"workflowApiVersion": "1.1",
 	"metaData": {
-		"icon": "images/sms.png",
+		"icon": "heroku.png",
 		"category": "message"
 	},
 	"type": "REST",
